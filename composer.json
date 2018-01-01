@@ -1,0 +1,11 @@
+{
+    "name": "77539/laravel-redis-sentinel",
+    "description": "redis package",
+    "license": "MIT",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+
+        }
+    }
+}
